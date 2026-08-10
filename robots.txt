@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: proverennye-kazino-na-rubli-bez-m-531c7.github.io
+Sitemap: https://proverennye-kazino-na-rubli-bez-m-531c7.github.io/sitemap.xml
